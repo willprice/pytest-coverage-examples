@@ -1,0 +1,2 @@
+def c():
+    return 'c'
